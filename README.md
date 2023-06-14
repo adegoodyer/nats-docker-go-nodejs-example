@@ -30,4 +30,7 @@ npm install nats
 node index.js
 
 # view messages in go client terminal
+
+# teardown
+docker-compose down
 ```
